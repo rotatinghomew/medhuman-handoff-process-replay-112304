@@ -1,0 +1,7 @@
+id,placement,action,actor,earliest,latest,arrived,kind,supersedes
+P01,E117,student_send,student,15212,15213,15214,original,
+P02,E117,site_received,T5,15216,15223,15226,original,
+P03,E117,first_confirm,T5,15242,15250,15258,original,
+P04,E117,scope_confirm,T3,15236,15261,15264,original,
+P05,E117,registered,office,15275,15290,15292,original,
+P06,E118,student_send,student,15051,15053,15054,original,

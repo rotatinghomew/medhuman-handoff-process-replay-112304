@@ -1,0 +1,73 @@
+{
+  "placement.csv": [
+    "id",
+    "group",
+    "site",
+    "version",
+    "teacher",
+    "eligible_min",
+    "due_min",
+    "state"
+  ],
+  "log.csv": [
+    "id",
+    "placement",
+    "action",
+    "actor",
+    "earliest",
+    "latest",
+    "arrived",
+    "kind",
+    "supersedes"
+  ],
+  "observability.csv": [
+    "placement",
+    "action",
+    "from_min",
+    "to_min",
+    "state"
+  ],
+  "workflow.csv": [
+    "version",
+    "site_set",
+    "from_min",
+    "scope_required",
+    "either",
+    "parallel",
+    "before_register"
+  ],
+  "coverage.csv": [
+    "person",
+    "from_min",
+    "to_min",
+    "role",
+    "skills",
+    "capacity"
+  ],
+  "launch.csv": [
+    "site",
+    "version",
+    "proposed_at",
+    "takes_effect",
+    "trial_to",
+    "state"
+  ],
+  "notice.csv": [
+    "placement",
+    "notice_at",
+    "version",
+    "locked",
+    "promised_route"
+  ],
+  "pilot_log.csv": [
+    "id",
+    "placement",
+    "action",
+    "actor",
+    "earliest",
+    "latest",
+    "arrived",
+    "kind",
+    "supersedes"
+  ]
+}

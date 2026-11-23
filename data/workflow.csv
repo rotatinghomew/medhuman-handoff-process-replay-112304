@@ -1,0 +1,5 @@
+version,site_set,from_min,scope_required,either,parallel,before_register
+V1,"W0,W1,W2,W3",0,"W2,W3","site,teacher","first_confirm,scope_confirm","first_confirm,scope_confirm_if_required"
+V2,"W0,W1,W2,W3",8640,"W0,W3",site,"first_confirm,scope_confirm","first_confirm,scope_confirm_if_required"
+P1,"W0,W1,W2",15120,W0,"site,teacher","first_confirm,scope_confirm","first_confirm,scope_confirm_if_required"
+P2,"W1,W2,W3",15120,"W2,W3",teacher,"first_confirm,scope_confirm","first_confirm,scope_confirm_if_required"

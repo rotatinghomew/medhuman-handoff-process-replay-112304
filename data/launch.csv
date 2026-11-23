@@ -1,0 +1,6 @@
+site,version,proposed_at,takes_effect,trial_to,state
+W0,P1,14550,15120,17000,candidate
+W1,P1,14550,15120,17000,candidate
+W1,P2,14550,15120,17000,candidate
+W2,P2,14555,15120,17000,announced
+W3,P2,14555,15120,17000,candidate

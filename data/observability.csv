@@ -1,0 +1,13 @@
+placement,action,from_min,to_min,state
+E000,scope_confirm,530,680,log_missing
+E010,scope_confirm,640,790,log_missing
+E020,scope_confirm,2069,2219,log_missing
+E030,scope_confirm,3498,3648,log_missing
+E040,scope_confirm,4927,5077,log_missing
+E050,scope_confirm,6356,6506,log_missing
+E060,scope_confirm,7785,7935,log_missing
+E070,scope_confirm,9214,9364,log_missing
+E080,scope_confirm,10643,10793,log_missing
+E090,scope_confirm,12072,12222,log_missing
+E100,scope_confirm,13501,13651,log_missing
+E110,scope_confirm,14930,15080,log_missing
